@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Tatooine/static/css/main.84f4f7f1.chunk.css",
+    "main.js": "/Tatooine/static/js/main.7a0bd540.chunk.js",
+    "main.js.map": "/Tatooine/static/js/main.7a0bd540.chunk.js.map",
+    "runtime-main.js": "/Tatooine/static/js/runtime-main.35b14c63.js",
+    "runtime-main.js.map": "/Tatooine/static/js/runtime-main.35b14c63.js.map",
+    "static/js/2.2dc99c3c.chunk.js": "/Tatooine/static/js/2.2dc99c3c.chunk.js",
+    "static/js/2.2dc99c3c.chunk.js.map": "/Tatooine/static/js/2.2dc99c3c.chunk.js.map",
+    "index.html": "/Tatooine/index.html",
+    "static/css/main.84f4f7f1.chunk.css.map": "/Tatooine/static/css/main.84f4f7f1.chunk.css.map",
+    "static/js/2.2dc99c3c.chunk.js.LICENSE.txt": "/Tatooine/static/js/2.2dc99c3c.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/Tatooine/static/media/layer-4.a1e0c666.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35b14c63.js",
+    "static/js/2.2dc99c3c.chunk.js",
+    "static/css/main.84f4f7f1.chunk.css",
+    "static/js/main.7a0bd540.chunk.js"
+  ]
+}
